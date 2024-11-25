@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 x=1
 print("Hello iam sarayu")
 print('hello goodmorning')
+=======
+y=1
+print("Hello iam sarayu")
+print(y)
+>>>>>>> team1
